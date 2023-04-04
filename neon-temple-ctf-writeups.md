@@ -4,7 +4,7 @@ The categories were broken into the following areas:
 
 Treasure Hunt (Critical Thinking and digital OSINT)
 
-Pirate Hunting (Critical Thinking and physical OSINT)
+Pirate Hunting (Critical Thinking, forensics, and physical OSINT)
 
 Piracy (Attack and Defend)
 
