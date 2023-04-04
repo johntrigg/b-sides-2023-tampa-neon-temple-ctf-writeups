@@ -37,7 +37,15 @@ After a few guesses (starting with what I remembered to be the most common), I g
 
 ## Tampa Dot Net
 
+The goal here is to find the address of the Chick Fil A closest to the B-Sides Tampa website's domain registrar.
 
+Shoutout to my teammate Jack W for getting this.
+
+Running a quick `whois` on the B-Sides Tampa website revealed that the domain registrar was something like launchpad hostgator. Then, we looked for the address of HostGator HQ.
+
+Then, we plug that address into google maps as "current location", and set our destination to be Chick Fil A. This should get us the address of the closest Chick Fil A, and it does. Formatting the flag was somewhat tricky, and took  a few tries.
+
+{NT-11011-NORTHWEST-FWY-HOUSTON-TX-77092-NT}
 ## Schedule Your Manifest
 
 This flag wanted to know the package name of the Android App for viewing information about the B-Sides Conference.
